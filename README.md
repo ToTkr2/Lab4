@@ -574,8 +574,8 @@ p = rand() % 10;
 由图可知替换过程,设置的物理块为2，缺页次数为10  
  ![image text](https://github.com/ToTkr2/Lab4/blob/master/img/1.2.png)  
 
-
-
+参考网页：https://www.cnblogs.com/hujunzheng/p/4831007.html
+https://blog.csdn.net/qq_35685675/article/details/80744458
 
 
 
