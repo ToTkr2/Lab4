@@ -563,16 +563,16 @@ p = rand() % 10;
 ---
 1.最佳置换算法实验结果：  
 由图可知随机生成的序列号为7,3,6,5,4,4,1,0,8,2,3,3 设置的物理块为2，缺页次数为9  
-![image text]
+![image text](https://github.com/ToTkr2/Lab4/blob/master/img/1.png)  
 2.先进先出置换算法实验结果：  
 由图可知随机生成的序列号为1,4,6,5,8,9,0,0,2,9,1,4 设置的物理块为2，缺页次数为11  
-
+![image text](https://github.com/ToTkr2/Lab4/blob/master/img/2.png)  
 3.最近最久未使用置换算法实验结果：  
 由图可知随机生成的序列号为2,2,2,7,8,3,1,9,2,0,2,6,设置的物理块为2，缺页次数为10  
-
+![image text](https://github.com/ToTkr2/Lab4/blob/master/img/1.1.png)  
 4.改进的CLOCK置换算法实验结果：  
 由图可知替换过程,设置的物理块为2，缺页次数为10  
- 
+ ![image text](https://github.com/ToTkr2/Lab4/blob/master/img/1.2.png)  
 
 
 
